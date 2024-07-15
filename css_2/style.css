@@ -1,0 +1,73 @@
+.abc{
+    font-size: 30px;
+    
+}
+
+.xyz{
+    color: green;
+}
+
+#main{
+    text-align: center;
+    
+}
+
+.sub{
+    color: red;
+    font-size: 20px;
+}
+
+h1,h3{
+    color: blue;
+    
+}
+
+#aiueo{
+    color: orange;
+    
+}
+#aiueo h2{
+    font-size: 10px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h2.class{
+    color: red;
+}
+
+h2.no2{
+    color: blue;
+}
+
+.a{
+    color: red;
+}
+
+.b{
+    font-size: 30px;
+}
+
+.a.b{
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

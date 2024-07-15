@@ -1,0 +1,76 @@
+body {
+    color: red;
+    background-color: gray;
+}
+
+h1 {
+    color: blue;
+    font-size: 15px;
+}
+
+
+.abc {
+    font-size: 10px;
+    color: blue;
+}
+
+.xyz{
+    color: brown;
+    background-color: black;   
+    
+}
+
+
+
+#aisatsu{
+    font-size: 20px;
+    color: green;
+}
+
+#orei{
+    font-size: 30px;
+    color: yellow;
+}
+
+
+body{
+    font-family: serif;
+}
+
+.hello
+{text-align: center;
+}
+
+h2{
+    text-align: left;
+    color: blue;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    color: black;
+}
+
+.no1{
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
