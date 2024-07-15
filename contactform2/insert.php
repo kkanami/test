@@ -17,7 +17,7 @@ values('".$_POST['name']."','".$_POST['mail']."','".$_POST['age']."','".$_POST['
         <h1>お問い合わせフォーム</h1>
         <div class="confirm">
             <p>お問い合わせ有難うございました。<br>営業日以内に担当者よりご連絡差し上げます。</p>
-             <form action="index.html">
+             <form action="index.php">
            <input type="submit" class="button1" value="戻る">
        </form>
         </div>
